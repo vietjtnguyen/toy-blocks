@@ -1,4 +1,4 @@
-A simple vim colorscheme that focuses on using named colors and not direct hex or RGB values. This essentially defers to the user's terminal for final coloring (such as iterm color schemes, of which one is provided). Colors are chosen for visual distinction amongst syntax elements.
+A simple vim terminal colorscheme that focuses on using named colors and not direct hex or RGB values. This essentially defers to the user's terminal for final coloring (such as iterm color schemes, of which one is provided). Colors are chosen for visual distinction amongst syntax elements.
 
 # Screenshots
 
