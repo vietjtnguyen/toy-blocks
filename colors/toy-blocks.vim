@@ -8,7 +8,6 @@ hi Visual             cterm=none       ctermfg=Black      ctermbg=White
 hi Search             cterm=bold       ctermfg=Black      ctermbg=Yellow
 hi LineNr             cterm=none       ctermfg=Gray       ctermbg=none
 hi Folded             cterm=none       ctermfg=Gray       ctermbg=Black
-hi Folded             cterm=none       ctermfg=Gray       ctermbg=Black
 hi Pmenu              cterm=none       ctermfg=White      ctermbg=Gray
 hi PmenuSel           cterm=none       ctermfg=Yellow     ctermbg=Black
 
